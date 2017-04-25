@@ -1,0 +1,17 @@
+@font-face {
+  font-family: "OpenSans-CondBold";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSans-CondBold.ttf") format("truetype");}
+  
+ @font-face {
+  font-family: "OpenSans-CondLight";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSans-CondLight.ttf") format("truetype");}
+
+ @font-face {
+  font-family: "OpenSans-CondLightItalic";
+  font-style: normal;
+  font-weight: normal;
+  src: url("../fonts/OpenSans-CondLightItalic.ttf") format("truetype");}

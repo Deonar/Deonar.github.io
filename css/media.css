@@ -1,0 +1,43 @@
+/*==========  Desktop First Method  ==========*/
+
+/* Large Devices, Wide Screens */
+@media only screen and (max-width : 1200px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (max-width : 992px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (max-width : 768px) {
+/*HEDER*/
+.heder-top p {
+		padding: 0;
+		}
+.heder-top {
+		float: none;
+		text-align: center;
+		} 
+.heder-top .phone-and-address{
+		text-align: center;
+		padding-bottom: 10px;
+		margin: 0;
+		}
+.heder-nav ul li a {
+	margin: 0 8px;
+}
+
+}
+
+/* Extra Small Devices, Phones */
+@media only screen and (max-width : 480px) {
+
+}
+
+@media only screen and (min-width: 768px) {
+	.heder-nav .show-more-absolut {
+    	display: none;
+	}
+}
